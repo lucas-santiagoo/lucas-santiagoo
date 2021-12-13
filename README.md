@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucas-santiagoo         
+- 👀 I’m interested in  contribuir na comunidade e ganhar experiencia
+- 🌱 I’m currently learning python 
+- 📫 How to reach me, github @lucas-santiagoo,instagram @lucasan_tiago
